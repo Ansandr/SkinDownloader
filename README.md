@@ -1,4 +1,4 @@
-# SkinDownloader
+# SkinLoder
 Plugin fot getting a png file of player skin
 
 This plugin get a GameProfile for player, them get property value with name: textures
