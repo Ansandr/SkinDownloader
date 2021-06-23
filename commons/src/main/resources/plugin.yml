@@ -1,0 +1,12 @@
+name: SkinLoder
+main: me.ansandr.skinloder.SkinLoder
+version: ${project.parent.version}
+author: Ansandr
+api-version: 1.13
+description: Get a png file of player skin
+softdepend: [SkinsRestorer]
+loadbefore: [SkinsRestorer]
+
+commands:
+  skinget:
+  capeget:
